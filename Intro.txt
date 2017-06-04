@@ -1,0 +1,6 @@
+Hello dudes.
+This is just a test intro file for use guys that will be programming and using
+github to update files on the fly.
+
+The only people with ability to commit changes will be Jordan Trumbull, Albert Yu,
+Bruno Jimenez, and myself.
